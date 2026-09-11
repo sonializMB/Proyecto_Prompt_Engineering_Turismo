@@ -1,0 +1,48 @@
+{
+    "nombre": "Playa Miramar",
+    "descripcion": "Playa Miramar es el principal destino turístico de sol y playa del noreste de México, ubicado en Ciudad Madero, Tamaulipas. Destaca por su extensa franja de arena fina, oleaje suave y su emblemático paseo en el rompeolas de Las Escolleras, donde convergen el río Pánuco y el Golfo de México. Cuenta con certificación ambiental e incluyente, siendo un lugar idóneo para el descanso familiar, la práctica de deportes acuáticos y el avistamiento de fauna silvestre como la tortuga lora.",
+    "municipio": "Ciudad Madero",
+    "direccion": {
+        "calle": "Bulevar Costero",
+        "numero": "s/n",
+        "colonia": "Miramar",
+        "codigo_postal": "89540"
+    },
+    "ubicacion": {
+        "latitud": 22.28979,
+        "longitud": -97.8004
+    },
+    "horario": {
+        "dias": [
+        "Lunes",
+        "Martes",
+        "Miercoles",
+        "Jueves",
+        "Viernes",
+        "Sabado",
+        "Domingo"
+        ],
+        "hora_apertura": "00:00:00",
+        "hora_cierre": "23:59:59"
+    },
+    "servicios": [
+        "estacionamiento",
+        "sanitarios",
+        "restaurante",
+        "venta de alimentos",
+        "accesibilidad",
+        "mirador",
+        "renta de equipo",
+        "zona de descanso",
+        "informacion turistica"
+    ],
+    "es_gratis": true,
+    "es_petfriendly": true,
+    "es_accesible": true,
+    "calificacion_promedio": 4.6,
+    "fuentes": [
+        "https://ciudadmadero.gob.mx/",
+        "https://www.zonaturistica.com/que-hacer-en/tamaulipas/tampico/playa-miramar-ciudad-madero",
+        "https://mapcarta.com/es/29763700"
+    ]
+}
