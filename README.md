@@ -20,6 +20,7 @@ El notebook muestra el proceso de preparación de los datos, configuración del 
 ### Notebook
 
  **[Ver notebook de Fine-Tuning](./FINE%20TUNING/nombre_notebook.ipynb)**
+ 
  **[Abrir notebook de Fine-Tuning en Google Colab](https://drive.google.com/file/d/1PeVA0KYfWzH5R_0ZR_aODaMjbiwn_tUi/view?usp=sharing)**
 
  Carpeta del proyecto:
@@ -37,6 +38,7 @@ El ejercicio está aplicado al dominio del **turismo**, utilizando información 
 ### Notebook
 
 **[Ver notebook de Prompt Engineering](./PROMPT%20ENGINEERING/Prompt_Engineering_TURISMO.ipynb)**
+
 **[Abrir notebook de Prompt Engineering en Google Colab](https://colab.research.google.com/drive/1sBrSRXczEAseT-keNRggQ8dewf0zbeYG?usp=sharing)**
 
 Carpeta del proyecto:
