@@ -19,7 +19,7 @@ El notebook muestra el proceso de preparación de los datos, configuración del 
 
 ### Notebook
 
- **[Ver notebook de Fine-Tuning](./FINE%20TUNING/nombre_notebook.ipynb)**
+ **[Ver notebook de Fine-Tuning](./FINE%20TUNING/Maestria-FT-Mistral-Presentacion.ipynb)**
  
  **[Abrir notebook de Fine-Tuning en Google Colab](https://colab.research.google.com/drive/18hoe7kgzFbIN0acJEhYYtWGTQTrl8k2-?usp=sharing)**
 
